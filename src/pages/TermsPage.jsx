@@ -12,7 +12,7 @@ const TermsPage = () => {
         <section className="mb-6">
           <h2 className="text-xl font-semibold mb-3">1. Introduction</h2>
           <p className="mb-3">
-            Welcome to EventMaster. These Terms of Service ("Terms") govern your use of our website, services, and applications (collectively, the "Services"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our Services.
+            Welcome to EventPlanner. These Terms of Service ("Terms") govern your use of our website, services, and applications (collectively, the "Services"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our Services.
           </p>
           <p>
             Please read these Terms carefully before using our Services. By using our Services, you acknowledge that you have read, understood, and agree to be bound by these Terms.
