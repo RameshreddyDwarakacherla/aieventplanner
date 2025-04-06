@@ -12,7 +12,7 @@ const HomePage = () => {
   return (
     <div className="w-full px-4 py-8">
       <section className="text-center mb-12">
-        <h1 className="text-4xl font-bold mb-4">Welcome to EventMaster</h1>
+        <h1 className="text-4xl font-bold mb-4">Welcome to EventPlanner</h1>
         <p className="text-xl mb-6">Your all-in-one platform for planning and managing events</p>
 
         {!user ? (
